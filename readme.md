@@ -85,4 +85,11 @@ pip install streamlit
 streamlit hello
 ``````
 
-# installation 
+# ENREGISTREMENT DANS GIT
+``````
+git clone https://github.com/LindaBDIA/duckdb-streamlit-training.git
+cd .\duckdb-streamlit-training\
+git status
+git add .
+git commit -m 'ajout journée du 22mars'
+git push
